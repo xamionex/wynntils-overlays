@@ -1,4 +1,3 @@
-
 ### Enabled Template (C&P)
 ```
 greater_than(adavg; 0)

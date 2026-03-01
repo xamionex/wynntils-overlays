@@ -1,11 +1,10 @@
-
-### Enabled Template (C&P)
+### Enabled Template (CnP)
 ```
-greater_than(area_damage_per_second; 0)
+greater_than(adps; 0)
 ```
 ### InfoBoxContent (IDE)
 ```
-let dps = area_damage_per_second;
+let dps = adps;
 
 let maxColor = rainbow_shader;
 let toptierColor = from_hex("#00ffff");

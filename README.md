@@ -5,5 +5,5 @@ Simply copy and paste the overlay into the ide, hit compile, scroll down and cop
 Then paste into a field for a wynntils overlay
 
 
-C&P = Copy and Paste \
+CnP = Copy and Paste \
 IDE = Use https://wynntils-functions.ryanzhou.dev/ide
