@@ -2,7 +2,7 @@ Always displays
 Change max_speed if you don't like the way it's colored
 It changes from white to cyan depending on how far you are from max_speed
 
-### Content
+### Content (IDE)
 ```
 let speed = bps;
 let max_speed = 20;

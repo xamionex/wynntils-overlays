@@ -3,7 +3,7 @@ Change max_money if you don't like the way it's colored
 It changes from white to green depending on how far you are from max_money
 Change max_green if you want to have a lighter green when max_money is reached, max is 255
 
-### Content
+### Content (IDE)
 ```
 let money_value = money;
 let max_money = 500000;
